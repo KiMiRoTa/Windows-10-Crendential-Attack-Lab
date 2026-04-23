@@ -34,11 +34,7 @@ Scanning the Domain Controller to identify open services.
 ![Nmap Scan](./Images/NmapPortScan.png)
 ![Nmap Scan](./Images/NmapPortScan2.png)
 
-2. Username enumeration using kerbrute
-3. Password brute-force using Hydra
-4. RDP access to workstation
-5. Credential extraction (cache admin credentials)
-6. Privilege escalation to Domain Administrator
+
 
 ---
 
