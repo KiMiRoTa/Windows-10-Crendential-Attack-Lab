@@ -28,13 +28,18 @@ The attack does NOT rely on software vulnerabilities, but instead exploits:
 ---
 
 ## Attack Flow
-1. Reconnaissance (Nmap)
---
+### 1. Reconnaissance (Nmap)
 Scanning the Domain Controller to identify open services.
 ![Nmap Scan](./Images/NmapScan.png)
 ![Nmap Scan](./Images/NmapPortScan.png)
 ![Nmap Scan](./Images/NmapPortScan2.png)
 
+### 2. Username Enumeration (Kerbrute)
+Identifying valid domain users without needing passwords.
+![Kerbrute](./Images/kerbrute.png)
+
+### 3. Password Brute Force (Hydra)
+Brute-forcing RDP login credentials.
 
 
 ---
