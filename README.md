@@ -105,4 +105,4 @@ See the full documentation here:
 ---
 
 Author 
-- KiMiRoTa
+- Haikal Raihan Hafidz (KiMiRoTa)
